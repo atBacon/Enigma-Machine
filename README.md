@@ -7,4 +7,4 @@ Uses the ASCII character codes of the input, does an undisclosed amount of maths
 
 Neither output 1 nor 2 are "more" or "less" encoded than the other, instead they are just encoded in different "directions"
 Taking one output from one, and then another from one, is like taking two steps in a single direction.
-But, then, by using an input from 2, it is like stepping in the oppsite direction
+But, then, by using an input from two, it is like stepping in the oppsite direction
